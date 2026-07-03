@@ -1,9 +1,9 @@
 {
     "name": "KoS-Technical-Terms",
-    "version": "1.0.8",
+    "version": "1.0.10",
     "title": "KoS Technical Terms",
     "author": "teapot4195",
-    "factorio_version": "1.1",
+    "factorio_version": "2.1",
     "dependencies": ["base >= 1.1", "? boblogistics", "? KS_Power", "? SeaBlock", "? aai-industry", "? space-exploration"],
     "description": "The Katherine of Sky Technical Terms mod that renames all the things with the KoS technical term."
 }
